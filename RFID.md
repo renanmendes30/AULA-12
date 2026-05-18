@@ -1,3 +1,6 @@
+<img width="2736" height="1143" alt="image" src="https://github.com/user-attachments/assets/f829c0b0-45bc-419d-b9e6-eeabde46b2ea" />
+
+
 ```
 #include <SPI.h>
 #include <MFRC522.h>
